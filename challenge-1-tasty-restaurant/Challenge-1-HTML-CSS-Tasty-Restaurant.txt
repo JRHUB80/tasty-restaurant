@@ -1,0 +1,11 @@
+Homework 01 - Tasty Restaurant
+
+Instructions: 
+Create and deploy a full restaurant site, using the template provided. 
+Use royalty free photographs in place of placeholder images.
+Create a Repo called tasty-restaurant
+Use HTML AND CSS to recreate the template.
+Customize this template for any type of restaurant by updating the colors, text, and photos, while keep the layout the same.
+The photos you use should be royalty-free images, that are high quality and do not contain watermarks.
+
+https://cdn.discordapp.com/attachments/1161140279299022958/1163645575795855461/Homework-01.jpg?ex=66dda2a4&is=66dc5124&hm=8193fd1e09888f5037fbb8409b8fcd0ff28f09bd8db20ecfc6efb59e0276e590&
